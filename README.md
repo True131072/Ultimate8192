@@ -2,7 +2,7 @@
 New age web game based on <a href="http://gabrielecirulli.github.io/2048/">2048</a>
 
 I have made this revision just for fun, and for learn.
-You can play it here : 
+You can play it here : [Ultimate 8192] (http://www.juicemint.eu/8192/)
 
 ### Screenshot
 
